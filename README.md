@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand
-- 👀 I’m interested in Frontend 
+- 👀 I’m interested in Java Programming | Database Management 
 - 🌱 I’m student @TCE
 - 💞️ I’m looking to collaborate on webdeveloper community
 - 📫 contact me anandlatha7878@gamil.com or anandp@student.tce.edu
