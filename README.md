@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://itsmeanand.netlify.app/](https://itsmeanand.netlify.app/)
 
-- 💬 Ask me about **Java, C, MySQL, HTML, CSS ,JS, BootStrap**
+- 💬 Ask me about **Java, Spring Boot, C, MySQL, HTML, CSS ,JS,ES6, BootStrap, React, Firebase**
 
 - 📫 How to reach me **anandlatha7878@gmail.com**
 
